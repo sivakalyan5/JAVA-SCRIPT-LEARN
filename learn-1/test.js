@@ -1,0 +1,11 @@
+console.time("this console code excution time");
+console.log(`Hello's wolrd`);
+console.log(100-95);
+console.log(100%2);
+console.log("100%2");
+console.log([1,2,3,'hello']);
+console.log({course:"javascript",rating: 4});
+console.table({course:"javascript",rating: 4});
+console.warn("this is warnings");
+console.error("this is big error");
+console.timeEnd("the entire code took ...");
